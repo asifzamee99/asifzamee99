@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Asif
-- 👀 I’m interested in Machine Learning, Robotics and AI
-- 🌱 I’m currently learning ML integration with IoT, specifically with Python, Embedded C
-- 📫 +8801641640716 ||  asif.zamee@gmail.com
-
+👋 Hi, I’m Asif Zamee  
+🎓 EEE Graduate | AI & Embedded Systems Enthusiast  
+🤖 Exploring the intersection of Machine Learning, Robotics & IoT  
+🛠️ Currently working with Python, Embedded C for smart system integration  
+📬 Reach me: asif.zamee@gmail.com | +8801641640716
   
 
 <!---
